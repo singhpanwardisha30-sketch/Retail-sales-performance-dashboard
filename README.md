@@ -42,3 +42,6 @@ This project helped me practice Excel-based data analysis, KPI reporting, PivotT
 ---
 
 *Portfolio project created for learning and demonstrating practical Excel data analysis skills.*
+## Dashboard Preview
+
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
